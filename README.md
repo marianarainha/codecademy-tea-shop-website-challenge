@@ -1,6 +1,6 @@
 # Codecadmy - Create a fictional tea shop website.
 
-This is a solution to the [Tea Shop Website Project on Codecademy](https://www.codecademy.com/).
+This is a solution to the Tea Shop Website Project on [Codecademy](https://www.codecademy.com/).
 
 ## The challenge
 
